@@ -1,0 +1,29 @@
+{
+  "name": "mongodb-schema-finder",
+  "version": "0.1.0",
+  "description": "MongoDB-Schema-Finder guesses the schema for each of your collections in mongoose",
+  "main": "lib/finder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "schema",
+    "collections",
+    "definer",
+    "finder",
+    "helper",
+    "model",
+    "mongodb"
+  ],
+  "homepage": "http://www.tourconnect.com/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TourConnect/MongoDB-Schema-Finder.git"
+  },
+  "author": "TourConnect Engineering Team",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "3.8.25"
+  }
+}
