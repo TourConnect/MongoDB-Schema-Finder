@@ -2,7 +2,7 @@
 
 MongoDB-Schema-Finder is a Node tool that guesses what the schema is for each collection from a mongo connection.
 
-MongoDB-Schema-Finder does this by querying a sample from each Connection from the MongoDB connection and validates the types from the sample, then it writes a json formatted document for each collection.
+MongoDB-Schema-Finder does this by querying a sample from each Collection from the MongoDB connection and validates the types from the sample, then it writes a json formatted document for each collection.
 
 ### Installation
 
